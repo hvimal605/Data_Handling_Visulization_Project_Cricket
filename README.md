@@ -4,8 +4,6 @@
     This project presents an in-depth analysis and visualization of cricket data, leveraging modern data visualization techniques to provide insights into various formats of cricket matches such as IPL and T20, along with individual player statistics. The project emphasizes a clean and intuitive user interface to make complex data easily accessible and understandable for cricket enthusiasts.
 </p>
 
-<h2 align="center">🚀 Demo</h2>
-
 <h2 align="center">Project Screenshots:</h2>
 
 <div align="center">
@@ -36,10 +34,22 @@ Here are some of the project's best features:
     </li>
     <li>
         <strong>4. Websites:</strong><br/>
-        - <em>Cricket Rules Website:</em> A separate platform designed to educate users on the rules of cricket from basic to advanced with easy-to-follow explanations and visuals.<br/>
-        - <em>Top 3 Famous Cricketers Visualization Dashboard:</em> An interactive dashboard that highlights the career statistics, achievements, and key performances of the top 3 famous cricketers. This includes an in-depth breakdown of each cricketer's milestones, records, and tournament achievements.
+        - <em>Top 3 Famous Cricketers Visualization Dashboard:</em> An interactive dashboard that highlights the career statistics, achievements, and key performances of the top 3 famous cricketers. This includes an in-depth breakdown of each cricketer's milestones, records, and tournament achievements.<br/>
+        - <em>Stats Calculator:</em> A tool that helps users calculate player statistics and performance metrics effectively.<br/>
+        - <em>Cricket Rules Website:</em> A separate platform designed to educate users on the rules of cricket from basic to advanced with easy-to-follow explanations and visuals.
     </li>
 </ul>
+
+<h2 align="center">🚀 Website Demo</h2>
+<p align="center">
+    <a href="https://top3-cricketer-ayush-harsh.netlify.app" target="_blank">Visit the Top 3 Cricketer Dashboard</a>
+</p>
+<p align="center">
+    <a href="https://statscalculator-ayush-harsh.netlify.app" target="_blank">Visit the Stats Calculator</a>
+</p>
+<p align="center">
+    <a href="https://icc-laws-of-cricket-ayush-harsh.netlify.app" target="_blank">Visit the ICC Laws of Cricket</a>
+</p>
 
 <h2>💻 Built with</h2>
 
